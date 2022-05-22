@@ -10,4 +10,5 @@
     <color name="bg">#212832</color>
     <color name="bg_dark">#19202a</color>
     <color name="accent">#F9A825</color>
+    <color name="accent_new">#C51162</color>
 </resources>
