@@ -39,7 +39,7 @@
                         android:layout_margin="15dp"
                         app:cardBackgroundColor="@color/accent"
                         app:cardCornerRadius="15dp"
-                        app:cardElevation="20dp" >
+                        app:cardElevation="20dp">
 
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -50,69 +50,70 @@
                             <ImageView
                                 android:layout_width="match_parent"
                                 android:layout_height="50dp"
-                                android:src="@drawable/ic_undraw_revenue"/>
+                                android:src="@drawable/ic_undraw_revenue" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
+                                android:id="@+id/text_inflation"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="12.5 % (April)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation expectation"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="13.1 % (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="CPI"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="215 (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                         </LinearLayout>
 
@@ -125,7 +126,7 @@
                         android:layout_margin="15dp"
                         app:cardBackgroundColor="@color/accent"
                         app:cardCornerRadius="15dp"
-                        app:cardElevation="20dp" >
+                        app:cardElevation="20dp">
 
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -136,69 +137,69 @@
                             <ImageView
                                 android:layout_width="match_parent"
                                 android:layout_height="50dp"
-                                android:src="@drawable/ic_undraw_revenue"/>
+                                android:src="@drawable/ic_undraw_revenue" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="12.5 % (April)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation expectation"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="13.1 % (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="CPI"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="215 (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                         </LinearLayout>
 
@@ -211,7 +212,7 @@
                         android:layout_margin="15dp"
                         app:cardBackgroundColor="@color/accent"
                         app:cardCornerRadius="15dp"
-                        app:cardElevation="20dp" >
+                        app:cardElevation="20dp">
 
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -222,69 +223,69 @@
                             <ImageView
                                 android:layout_width="match_parent"
                                 android:layout_height="50dp"
-                                android:src="@drawable/ic_undraw_revenue"/>
+                                android:src="@drawable/ic_undraw_revenue" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="12.5 % (April)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation expectation"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="13.1 % (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="CPI"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="215 (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                         </LinearLayout>
 
@@ -297,7 +298,7 @@
                         android:layout_margin="15dp"
                         app:cardBackgroundColor="@color/accent"
                         app:cardCornerRadius="15dp"
-                        app:cardElevation="20dp" >
+                        app:cardElevation="20dp">
 
                         <LinearLayout
                             android:layout_width="match_parent"
@@ -308,69 +309,69 @@
                             <ImageView
                                 android:layout_width="match_parent"
                                 android:layout_height="50dp"
-                                android:src="@drawable/ic_undraw_revenue"/>
+                                android:src="@drawable/ic_undraw_revenue" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="12.5 % (April)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="Inflation expectation"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="13.1 % (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="CPI"
                                 android:textAlignment="center"
-                                android:textStyle="bold"
                                 android:textColor="@android:color/black"
-                                android:textSize="16sp" />
+                                android:textSize="16sp"
+                                android:textStyle="bold" />
 
                             <TextView
-                                android:layout_gravity="center_horizontal"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
                                 android:fontFamily="@font/maven_pro"
                                 android:text="215 (May)"
-                                android:textStyle="bold"
                                 android:textColor="@color/accent_new"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:textStyle="bold" />
 
                         </LinearLayout>
 
@@ -401,9 +402,14 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/maven_pro"
                 android:text="SAMPLE text 123"
-                android:textStyle="bold"
                 android:textColor="@android:color/darker_gray"
-                android:textSize="36sp" />
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <com.anychart.AnyChartView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:id="@+id/bar_chart"/>
 
         </LinearLayout>
 
